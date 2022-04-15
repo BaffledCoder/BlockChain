@@ -1,2 +1,2 @@
 # BlockChain
-This project simply shows the working logic of blockchain
+This project simply shows the working logic of blockchain mining
